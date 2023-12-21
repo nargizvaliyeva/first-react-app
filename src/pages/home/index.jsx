@@ -2,9 +2,9 @@ import React from "react";
 import "./index.css"
 import img from "../../assets/images/engineers_cover.jpg"
 
-function Part1() {
+function HomePage() {
   return (
-    <section id="part1">
+    <section id="home">
       <div className="container">
         <div className="boxes">
           <div className="left">
@@ -33,4 +33,4 @@ function Part1() {
   );
 }
 
-export default Part1;
+export default HomePage;
