@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+#part1{
+    background-color: rgb(180, 189, 206);
+   height: 100vh;
+}
+.boxes{
+    display: flex;
+    padding: 30px;
+    gap: 70px;
+   
+    
+}
+.left h1{
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.left p{
+    font-size: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.contact{
+    background-color: rgb(198, 194, 216);
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    color: rgb(24, 24, 24);
+
+}
+.contact:hover{
+    background-color: rgb(109, 91, 189);
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    color: white;
+    border: none;
+}
+.img{
+    padding: 40px;
+    width: 600px;
+    height: 500px;
+    border-radius: 50%;
+   
+}
