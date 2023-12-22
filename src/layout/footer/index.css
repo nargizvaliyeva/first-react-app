@@ -42,5 +42,6 @@ input{
     border-radius: 6px;
     border: none;
     width: 70%;
+    outline: none;
 
 }
