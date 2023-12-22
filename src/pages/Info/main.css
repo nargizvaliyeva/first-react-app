@@ -1,0 +1,30 @@
+ .cards h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  color: rgb(71, 52, 88);
+  font-size: 2rem;
+}
+#info {
+height: 70vh;
+  background-color: rgb(130, 137, 151);
+}
+.box-1 {
+  border: 2px solid rgb(92, 69, 114);
+  width: 20%;
+  padding: 10px;
+  border-radius: 10px;
+
+}
+.box-1 h3 {
+  font-size: 7rem;
+  color: rgb(89, 67, 109);
+}
+.box-1 h2,
+p {
+  color: rgb(40, 28, 51);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+

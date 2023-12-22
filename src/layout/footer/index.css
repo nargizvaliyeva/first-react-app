@@ -2,3 +2,45 @@ footer{
     background-color: black;
     height: 50vh;
 }
+.footer{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.left-2{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.3rem;
+    width: 100%;
+    color: white;
+}
+.right-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icon{
+    font-size: 2rem;
+    color: white;
+}
+.submit{
+    color: white;
+    background-color: rgb(74, 53, 94);
+    width: 100px;
+    padding: 8px;
+    border: none;
+    border-radius: 3px ;
+    position: relative;
+    bottom: 30px;
+    left: 195px;
+    cursor: pointer;
+}
+input{
+    padding:7px;
+    border-radius: 6px;
+    border: none;
+    width: 70%;
+
+}
