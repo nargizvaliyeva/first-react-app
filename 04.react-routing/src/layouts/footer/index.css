@@ -1,0 +1,9 @@
+footer{
+    background-color: teal;
+}
+.foot h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
